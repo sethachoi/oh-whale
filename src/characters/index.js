@@ -1,0 +1,11 @@
+export { default as FancyOctopusCharacter } from "./fancyOctopus";
+export { default as FancyShrimpCharacter } from "./fancyShrimp";
+export { default as MermaidCharacter } from "./mermaid";
+export { default as OctopusCharacter } from "./octopus";
+export { default as ShrimpCharacter } from "./shrimp";
+export { default as SubmarineCharacter } from "./submarine";
+export { default as WhaleCharacter } from "./whale";
+export { default as UnderWaterCharacters } from "./underWaterCharacters";
+export { default as GraveyardCharacters } from "./graveyardCharacters";
+export { default as VoidCharacters } from "./voidCharacters";
+export { default as BoyCharacter } from "./boy";
